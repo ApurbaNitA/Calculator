@@ -30,3 +30,14 @@ button {
     border-radius: 18px;
     padding: 40px 10px 10px 10px;
 }
+@media only screen and (max-width: 600px) {
+    .container, table  {
+        
+        height: 500px;
+        width: 150px;
+        display: contents;
+        
+        
+        
+    }
+  }
